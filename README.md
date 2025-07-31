@@ -179,11 +179,50 @@ Most booking tools are either bloated and generic (Calendly, Acuity), or too tec
 
 ### Brand Archetype
 
-**Creator + Everyman**
+🧩 Why Creator?
+You’re literally helping people create something — their branded booking experience — without needing to code or design. The Creator archetype fits because:
 
-* **Tone:** Encouraging, clear, no tech snobbery — “You’ve got this”
-* **Visuals:** Pastel accents, soft-neutral backgrounds, rounded typography, real screenshots over mockups
-* **Message:** “Look pro. Stay booked. Skip the chaos.”
+You’re empowering self-expression
 
+Your templates are aesthetic, modular, and often seasonal
+
+You appeal to small business owners who care about how things look
+(lash techs, tutors, coaches, stylists = people who want beauty + control)
+
+Creator Message: “Design a booking flow that feels like you.”
+
+🔧 Why Everyman?
+You're not trying to be Squarespace-level elite or corporate SaaS. You’re saying:
+
+“This is for real people, who are busy, and want to stay booked.”
+
+No jargon. No developer gatekeeping. Just fast, simple, helpful tools.
+
+You normalize the anxiety around tech and make it accessible to all.
+
+Everyman Message: “No stress. No snobbery. Just clean, simple tools that work.”
+
+🧠 Combined Tone of Voice
+Friendly and encouraging (Everyman)
+
+Aspirational but not intimidating (Creator)
+
+“We’ve got your back” meets “Make it yours”
+
+🎨 Visual Identity (Archetype-Driven)
+Pastel and warm neutrals
+
+Soft, clean typography
+
+Real screenshots > mockups
+
+Emphasis on personalization, not perfection
+
+🗣️ Core Messaging Pillars
+“Look pro, without hiring one.”
+
+“Start with a template. Make it yours.”
+
+“Stay booked. Look good doing it.”
 
 
