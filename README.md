@@ -1,5 +1,6 @@
 [Business Name]: TemplateCart (placeholder name)
 
+
 1. Business Snapshot
 TemplateCart is a platform offering high-quality, ready-to-use booking templates tailored to niche small businesses — from solo yoga instructors to boutique salons — helping them save time, look professional, and convert more clients.
 
