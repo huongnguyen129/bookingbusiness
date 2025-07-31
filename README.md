@@ -132,4 +132,58 @@ These levers help you **scale fast, close quick**, and **build brand authority**
 * **Business model:** Thematic Gumroad bundles, TidyCal/Book Like A Boss for structure
 * **Tools to Integrate:** Notion, Airtable, Zapier, Stripe, Calendly (as backend if needed)
 
+Great — here’s a README.md-style writeup for **TemplateCart**, modeled exactly on the structure and tone of the examples you provided:
+
+---
+
+# **TemplateCart**
+
+### Value Proposition
+
+“We help small service businesses launch slick, branded booking systems fast — without the tech overwhelm.”
+
+---
+
+### Arbitrage
+
+Most booking tools are either bloated and generic (Calendly, Acuity), or too technical for solo entrepreneurs to customize. We fill the gap between **professional design** and **ease of use** by offering niche-specific booking templates — so lash artists, tutors, coaches, and others can go from “DM to booked” in minutes.
+
+---
+
+### Leverage
+
+* **Internal:** Modular template system, AI-powered form builder, SEO content targeting underserved niches (“booking form for lash techs”), pre-designed seasonal kits, creator referral flywheel
+* **External:** High urgency (missed bookings = lost revenue), strong identity need (want to “look legit”), post-pandemic normalization of online scheduling
+
+---
+
+### Persona (Short)
+
+**Name:** Thao N., 28
+**Pain Points:** Loses clients through DMs, no-show frustration, embarrassed by her current Google Form
+**Trigger:** Missed 3 clients in one week due to scheduling mix-ups
+**Objection:** “I don’t want to learn another tool”
+**We Win Trust With:** Mobile-first preview, 1-click setup video, testimonials from other beauty creators, free Starter Booking Kit
+
+---
+
+### Cialdini Mapping
+
+* **Authority:** “Templates reviewed by UX consultants who specialize in solo creator businesses”
+* **Social Proof:** “Used by 2,000+ creators — from lash techs to language tutors” + screenshots from real businesses
+* **Unity:** “Built by freelancers, for freelancers. We’ve been there.”
+* **Scarcity:** Seasonal template drops (e.g., “Back-to-School Booking Kit”)
+* **Reciprocity:** Free ‘Starter Booking Kit’ for email subscribers
+
+---
+
+### Brand Archetype
+
+**Creator + Everyman**
+
+* **Tone:** Encouraging, clear, no tech snobbery — “You’ve got this”
+* **Visuals:** Pastel accents, soft-neutral backgrounds, rounded typography, real screenshots over mockups
+* **Message:** “Look pro. Stay booked. Skip the chaos.”
+
+
 
