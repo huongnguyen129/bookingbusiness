@@ -224,5 +224,7 @@ Emphasis on personalization, not perfection
 “Start with a template. Make it yours.”
 
 “Stay booked. Look good doing it.”
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/72f7de28-0213-4be9-8de9-913570e8915c" />
+
 
 
